@@ -1,0 +1,1 @@
+# DuolingoCheatTool_Checkpoints
