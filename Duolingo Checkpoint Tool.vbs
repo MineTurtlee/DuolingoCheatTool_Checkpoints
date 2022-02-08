@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Duolingo-Cheat-Tool
+// @name         DuolingoCheckpointTool
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Auto answer Duolingo script!
